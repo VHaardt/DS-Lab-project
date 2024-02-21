@@ -1,5 +1,5 @@
-# Forecasting-Analysis-On-Sport-E-Commerce
-Univeristy project 
+# University project for the "Data Science Lab" course
+Forecasting Analysis on sport e-commerce
 ---
 Nowadays, it has become increasingly important for sales companies to go beyond traditional brick-and-mortar stores if they want to remain relevant in the market. Simply relying on in-store sales is no longer sufficient for the vast majority of companies, as the majority of sales now come from the online market. As a result, companies need to explore various approaches to tap into this growing segment. One option for companies is to rely on third- party providers like Amazon to handle their online sales. While this can be a convenient solution, many companies prefer to have their own personal e-commerce platforms. By doing so, they can avoid additional costs associated with using a third-party platform and have more control over their online presence. Having a personal e-commerce platform also allows companies to handle their online operations more easily and freely, adapting to their specific needs and preferences. However, e-commerce is not just a source of sales for companies; it is also a valuable data source. The data generated from e-commerce transactions provides crucial insights that can inform important business decisions. Sales companies understand the significance of data analysis in driving their strategies, and therefore, they are highly interested in individuals who can effectively analyze and interpret sales data.
 
